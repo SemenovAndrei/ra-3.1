@@ -1,0 +1,7 @@
+.star__list {
+  margin: 0;
+  padding: 20px 30px;
+  list-style-type: none;
+  display: flex;
+  border: 1px solid #D3BCA2;
+}
